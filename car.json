@@ -1,0 +1,54 @@
+{
+    "cars": [
+        {
+            "kategori": "sport_car",
+            "nama": "Buggati Veyron",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bugatti_Veyron_-_BCN_motorshow_2009.JPG/1280px-Bugatti_Veyron_-_BCN_motorshow_2009.JPG"
+        },
+        {
+            "kategori": "sport_car",
+            "nama": "Toyota Supra MK5",
+            "gambar": "https://imgcdn.oto.com/large/gallery/exterior/38/2165/toyota-supra-full-front-view-525800.jpg"
+        },
+        {
+            "kategori": "sport_car",
+            "nama": "Porsche Carrera GT",
+            "gambar": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg/1280px-Porsche_Carrera_GT_-_Goodwood_Breakfast_Club_%28July_2008%29.jpg"
+        },
+        {
+            "kategori": "sport_car",
+            "nama": "BMW M3 GTR",
+            "gambar": "https://cdn.topgear.es/sites/navi.axelspringer.es/public/media/image/2018/04/bmw-m3-gtr-need-speed.jpg?tf=3840x"
+        },
+        {
+            "kategori": "classic_car",
+            "nama": "Aston Martin DB4",
+            "gambar": "https://cdn.classic-trader.com/I/images/1920_1920_inset/vehicle_ad_standard_image_c86a53250dba3a812ce50e85b0a93c39.jpg"
+        },
+        {
+            "kategori": "classic_car",
+            "nama": "Lamborghini Miura",
+            "gambar": "https://www.carscoops.com/wp-content/uploads/2020/06/Lamborghini-Miura-P400-17b-1024x555.jpg"
+        },
+        {
+            "kategori": "classic_car",
+            "nama": "Mercedes SL 300 Gullwing",
+            "gambar": "https://www.carscoops.com/wp-content/uploads/2022/01/Mercedes-300-SL-Gullwing-1024x555.jpg"
+        },
+        {
+            "kategori": "offroad_car",
+            "nama": "Chevy K5 Blazer",
+            "gambar": "https://www.thedrive.com/content/2021/07/k5-blazer-lead.jpg?quality=85&auto=webp&optimize=high&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1920"
+        },
+        {
+            "kategori": "offroad_car",
+            "nama": "Chevy Silverado ZR2",
+            "gambar": "https://www.thedrive.com/uploads/2022/04/12/Silverado-ZR2-Hero.jpg?auto=webp&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1920"
+        },
+        {
+            "kategori": "offroad_car",
+            "nama": "Ford F-150 Raptor",
+            "gambar": "https://hips.hearstapps.com/hmg-prod/images/2019-ford-f-150-raptor-119-1527110712.jpg?crop=0.659xw:0.605xh;0.341xw,0.110xh&resize=1200:*"
+        }
+    ]
+}
