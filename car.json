@@ -7,8 +7,8 @@
         },
         {
             "kategori": "sport_car",
-            "nama": "Toyota Supra MK5",
-            "gambar": "https://imgcdn.oto.com/large/gallery/exterior/38/2165/toyota-supra-full-front-view-525800.jpg"
+            "nama": "Toyota GR Supra",
+            "gambar": "https://lh7-us.googleusercontent.com/nXPjeCSe_Sf-RAUpnzINRzQFCznRG6B8jJuawg-0P5-0xhRTHznGLSM-zuNtY-3pqU1dIFTcLVyhs7Xkf6vEljw_OJwLyNKCAPjw_avKHf3IPtAgpI46a19Io6xqB-Hi8JIPfU2Sztx4revLGTFzhAg"
         },
         {
             "kategori": "sport_car",
@@ -36,6 +36,11 @@
             "gambar": "https://www.carscoops.com/wp-content/uploads/2022/01/Mercedes-300-SL-Gullwing-1024x555.jpg"
         },
         {
+            "kategori": "classic_car",
+            "nama": "Jaguar E Type 1961",
+            "gambar": "https://statik.tempo.co/data/2021/09/28/id_1054432/1054432_720.jpg"
+        },
+        {
             "kategori": "offroad_car",
             "nama": "Chevy K5 Blazer",
             "gambar": "https://www.thedrive.com/content/2021/07/k5-blazer-lead.jpg?quality=85&auto=webp&optimize=high&crop=16%3A9&auto=webp&optimize=high&quality=70&width=1920"
@@ -49,6 +54,11 @@
             "kategori": "offroad_car",
             "nama": "Ford F-150 Raptor",
             "gambar": "https://hips.hearstapps.com/hmg-prod/images/2019-ford-f-150-raptor-119-1527110712.jpg?crop=0.659xw:0.605xh;0.341xw,0.110xh&resize=1200:*"
+        },
+        {
+            "kategori": "offroad_car",
+            "nama": "Hummer H1",
+            "gambar": "https://cdn.motor1.com/images/mgl/pVVLV/s1/hummer-h1-alpha-ot-atele-predator.webp"
         }
     ]
 }
